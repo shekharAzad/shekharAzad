@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shekharAzad
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning OAuth
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
