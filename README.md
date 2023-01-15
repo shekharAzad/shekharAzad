@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning OAuth
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Cshekharazad245@gmail.com.
 
 <!---
 shekharAzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
